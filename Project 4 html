@@ -1,0 +1,47 @@
+<title> HomePage </title>
+    
+    <body>
+        <h1> My HomePage
+            <table>
+                <tr>
+                    <th>Page Name</th>
+                    <th> URL</th>
+                    <th>Validation</th>
+                </tr>
+                <tr>
+                    <th> Template</th>
+                    <td><a href="template.html">ttps://www.urib4446.com/template.html</a></td>
+                    <ts><a href=""</ts>
+                </tr>                <tr>
+                    <th> Amuse Page</th>
+                    <td><a href="template.html">ttps://www.urib4446.com/template.html</a></td>
+                    <ts><a href=""</ts>
+                </tr>                <tr>
+                    <th> Inspire Page</th>
+                    <td><a href="template.html">ttps://www.urib4446.com/template.html</a></td>
+                    <ts><a href=""</ts>
+
+                </tr>                <tr>
+                    <th> Profile page</th>
+                    <td><a href="template.html">ttps://www.urib4446.com/template.html</a></td>
+                    <ts><a href=""</ts>
+                </tr>
+                <tr>
+                    <th> Home Page</th>
+                    <td><a href="template.html">ttps://www.urib4446.com/template.html</a></td>
+                    <ts><a href=""</ts>
+                </tr>
+            </table>
+
+        <ul>
+          <li> <a href="inspire.html">Inspire Page </a> </li>
+          <li> <a href="profile.html">My Page </a> </li>
+          <li> <a href="amuse.html">funny Page </a> </li>
+
+
+        </ul>
+        </h1>
+    </body>
+       
+    </head>
+</html>
