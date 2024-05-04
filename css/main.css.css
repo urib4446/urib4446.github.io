@@ -1,9 +1,9 @@
 body{
-    background-color: lightcyan;
+    background-color: Red ;
 }
 h1{
-    font-size: 50px;
-    font-weight: 600;
+    font-size: 60px;
+    font-weight: 700;
     background-image: linear-gradient(to left, #5782fa, #39a380);
     color:transparent;
     background-clip: text;
@@ -12,7 +12,7 @@ h1{
 }
 h2{
     font-family: 'Courier New', Courier, monospace;
-    background-color: lightgray;
+    background-color: red;
 }
 img{
     height: 75px;
@@ -33,7 +33,7 @@ td{
     text-align: center;
  }
 tr{
-    background-color: gray;
+    background-color: blue;
 }
 ul{
     list-style-type: upper-roman;
