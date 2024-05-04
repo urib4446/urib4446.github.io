@@ -1,0 +1,49 @@
+!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Search</title>
+    <link href="css/main.css.css" rel="stylesheet">  </head>
+  <body>
+    <h1>Search</h1>
+    <form action="https://www.google.com/search" method="GET" target="_blank">
+      <p>Select Company</p>
+        <div>
+          <input type="radio" name="as_oq" value="Nike.com" id="youngla">
+          <label for="youngla">Youngla</label>
+        </div>
+
+        <div>
+          <input type="radio" name="as_oq" value="darcsport.com" id="darcsport">
+          <label for="darcsport">Darcsport</label>
+        </div>
+        
+        <div>
+          <input type="radio" name="as_oq" value="UnderArmour.com" id="gymshark">
+          <label for="gymshark">Gymshark</label>
+        </div>
+      <p>Product</p>
+      <div>
+        <input type="text" name="q" id="product" placeholder="Shorts, Shirts, Shoes etc..">
+  
+      </div>
+
+      <p>Select Sex</p>
+      <div>
+        <label for="sex1">Men</label>
+        <input type="checkbox" name="q" value="Men" id="sex">
+      </div>
+
+      <div>
+        <label for="sex2">Women</label>
+        <input type="checkbox" name="q" value="Women" id="sex">
+      </div>
+
+      <input type="submit" value="Submit">
+
+    </form>
+
+  </body>
+
+</html>
