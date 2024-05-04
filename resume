@@ -6,7 +6,7 @@
     <title>Resume</title>
     <link href="style.css" rel="stylesheet">  </head>
   <body>
-    <h1>leassae ebiru</h1>
+    <h1>Batman</h1>
     <img src="" alt="">
     <nav>
         <a href="#contact">Contact</a>
@@ -15,28 +15,28 @@
         <a href="#skills">Skills</a>
         <section id="contact">
             <h2>Contact Information</h2>
-            <p>Phone Number: 1-800-CUCHE</p>
-            <p>Email:godcuche@apex.com</p>
+            <p>Phone Number: 1-800-Darknight</p>
+            <p>Email:Batman@hotmal.com</p>
         </section>
         <section id="education">
             <h2>Education and Training</h2>
             <ul>
                 <li>University of Northern Colorado <span class="date">2026</span></li>
-                <li>College of Apex<span class="date">2020</span></li>
-                <li>COD Academy <span class="date">2019</span></li>
+                <li>Martial Arts <span class="date">2019</span></li>
+                <li>Fortnite and Ark school <span class="date">1988</span></li>
             </ul>
         </section>
         <section id="experience">
             <h2>Work Experience</h2>
-            <p>GymShark <span class="date">2026</span></p>
-            <p>Youngla <span class="date">2023</span></p>
-            <p>Cucky Cheese's <span class="date">2019</span></p>
+            <p>Golds <span class="date">2027</span></p>
+            <p>Real Madrid <span class="date">2021</span></p>
+            <p>Soccer player <span class="date">2017</span></p>
         </section>
         <section id="skills">
             <h2>Skills and Hobbies</h2>
             <ul>
                 <li>Gym</li>
-                <li>Video Games</li>
+                <li>martial Arts</li>
                 <li>Music</li>
             </ul>
         </section>
