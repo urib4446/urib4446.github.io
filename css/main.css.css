@@ -37,7 +37,7 @@ tr{
 }
 ul{
     list-style-type: upper-roman;
-    background-color: Red;
+    background-color: lightred;
 }
 li{
     margin: 5px;
